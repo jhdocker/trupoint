@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"box-shadow"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"a",
+				"action_style"
+			],
+			[
+				"action_",
+				"action_title"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backgroundi",
+				"background-image"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"colo",
+				"outline-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "trupoint.py",
+			"settings":
+			{
+				"buffer_size": 812,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/use.html",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/explain.html",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/dive.html",
+			"settings":
+			{
+				"buffer_size": 1820,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/header.html",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/footer.html",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/trupoint.css",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jackson/Documents/python/contacts/templates/details.html",
+		"/Users/Jackson/Documents/python/contacts/templates/add.html",
+		"/Users/Jackson/Documents/python/contacts/search.py",
+		"/Users/Jackson/Documents/python/albums/albums.py",
+		"/Users/Jackson/Documents/html/mum.html",
+		"/Users/Jackson/Documents/html/style/mum.css",
+		"/Users/Jackson/Documents/python/test1/test.db",
+		"/Users/Jackson/Documents/python/jonasite/templates/header2.html",
+		"/Users/Jackson/Documents/python/triadweb/triad3.py",
+		"/Users/Jackson/Documents/python/jonasite/static/jona-header.html",
+		"/Users/Jackson/Documents/python/test1/2class.py",
+		"/Users/Jackson/Documents/python/rugbytest/footer.html",
+		"/Users/Jackson/Documents/python/rugbytest/templates/index.html",
+		"/Users/Jackson/Documents/python/rugbytest/home.py",
+		"/Users/Jackson/Documents/python/rugbytest/home2.py",
+		"/Users/Jackson/Documents/python/rugbytest/templates/fotter.html",
+		"/Users/Jackson/Documents/python/triadweb/triad.py",
+		"/Users/Jackson/Documents/python/rugbytest/templates/home",
+		"/Users/Jackson/Documents/python/triadweb/triadweb.py",
+		"/Users/Jackson/Documents/python/rugbytest/templates/welcome.html",
+		"/Users/Jackson/Documents/python/rugbytest/templates/home.html",
+		"/Users/Jackson/Documents/python/rugbytest/home2",
+		"/Users/Jackson/Documents/python/rugbytest/templates/apple.html",
+		"/Users/Jackson/Documents/python/rugbytest/templates/orange.html",
+		"/Users/Jackson/Documents/python/templates/apple.html",
+		"/Users/Jackson/Documents/python/projects/gothonweb/templates/index.html",
+		"/Users/Jackson/Documents/python/static/mystyles.css",
+		"/Users/Jackson/Documents/python/templates/orange.html",
+		"/Users/Jackson/Documents/python/templates/index.html",
+		"/Users/Jackson/Documents/python/code.py",
+		"/Users/Jackson/Documents/python/projects/gothonweb/templates/layout.html",
+		"/Users/Jackson/Documents/html/tables2.htm",
+		"/Users/Jackson/Documents/python/home.py",
+		"/Users/Jackson/Documents/python/orange.html",
+		"/Users/Jackson/Documents/python/templates/tangerine.html",
+		"/Users/Jackson/Documents/python/projects/gothonweb/bin/app.py",
+		"/Users/Jackson/Documents/python/projects/gothonweb/templates/hello_form.html",
+		"/Users/Jackson/Documents/python/classy.py",
+		"/Users/Jackson/Documents/python/projects/skeleton/tests/NAME_tests.py",
+		"/Users/Jackson/Documents/html/Triad.htm",
+		"/Users/Jackson/Documents/python/Triadsite.py",
+		"/Users/Jackson/Documents/python/templates/triad.html",
+		"/Users/Jackson/Documents/python/projects/skeleton/setup.py",
+		"/Users/Jackson/Documents/python/projects/gothonweb/templates/trfc.html",
+		"/Users/Jackson/Documents/python/testing2.py",
+		"/Users/Jackson/Documents/python/testing.py",
+		"/Users/Jackson/Documents/python/address.py",
+		"/Users/Jackson/Documents/html/pic1.htm",
+		"/Users/Jackson/Documents/html/Club-info.htm",
+		"/Users/Jackson/Documents/html/triad-pictures.htm",
+		"/Users/Jackson/Documents/html/style/Triad-style.css",
+		"/Users/Jackson/Documents/html/pic2.htm",
+		"/Users/Jackson/Documents/html/style/form.css",
+		"/Users/Jackson/Documents/html/form.htm",
+		"/Users/Jackson/Documents/html/style/style2.css",
+		"/Users/Jackson/Documents/html/default.htm",
+		"/Users/Jackson/Documents/html/rugby.htm",
+		"/Users/Jackson/Documents/html/rugby2.htm",
+		"/Users/Jackson/Documents/html/tables.htm",
+		"/Users/Jackson/Documents/html/style/float.css",
+		"/Users/Jackson/Documents/html/float.htm",
+		"/Users/Jackson/Documents/html/test.htm",
+		"/Users/Jackson/Documents/html/style/style.css",
+		"/Users/Jackson/Documents/python/gothon.py",
+		"/Users/Jackson/Documents/python/contact.py",
+		"/Volumes/Adobe CS5 Master Collection/Adobe CS5 Master Collection/deploy/install-en_US.xml",
+		"/Users/Jackson/Documents/html/link.htm"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "trupoint.py",
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/use.html",
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/explain.html",
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/dive.html",
+					"settings":
+					{
+						"buffer_size": 1820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/home.html",
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/header.html",
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/footer.html",
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "static/trupoint.css",
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								897,
+								897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,92 @@
+body{
+	width:100%;
+	height:100%;
+	margin:0px;
+	background-image: url('zen.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+
+#headerspace {
+	font-size: 1.2em;
+	padding:0% 0% 0% 10%;
+	margin:1% 0% 0% 0%;
+	height:10%;
+	width:100%;
+
+}
+
+#header li {
+	display:inline-block;
+}
+
+#header a {
+	display: inline-block;
+	padding:5px 20px 5px 20px;
+	margin:10px;
+	border:solid thin #696969;
+	border-radius:1.1em;
+	background-image: linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -o-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -moz-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -webkit-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -ms-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.35, rgb(137,137,137)),
+	color-stop(0.68, rgb(121,121,121)),
+	color-stop(0.84, rgb(105,105,105))
+);
+	opacity: 0.7;
+	text-align: center;
+	color:white;
+	text-decoration: none;
+	
+}
+
+#header li a:hover {
+	
+	opacity:1;
+	box-shadow: #363636 .2em .2em .2em;
+}
+
+.entry {
+	font-family: helvetica;
+	font-size: 1.1em;
+	color:white;
+	opacity: 0.8;
+	background-image: linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -o-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -moz-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -webkit-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+	background-image: -ms-linear-gradient(bottom, rgb(137,137,137) 35%, rgb(121,121,121) 68%, rgb(105,105,105) 84%);
+
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.35, rgb(137,137,137)),
+	color-stop(0.68, rgb(121,121,121)),
+	color-stop(0.84, rgb(105,105,105))
+);
+	border: solid black thin;
+	border-radius: 1.1em;
+	box-shadow: black 10px 10px 10px;
+	padding: 10px 50px 10px 50px;
+	margin: 10px 100px 10px 550px;
+	height:70%;
+	overflow: scroll;
+}
+
+.entry-main {
+	font-family: helvetica;
+	color:white;
+	opacity: 0.8;
+	font-size: 1.1em;
+	padding:25px 50px 0px 0px;
+	margin: 20px 100px 10px 500px;
+}
