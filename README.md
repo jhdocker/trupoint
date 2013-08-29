@@ -1,0 +1,1 @@
+"This site is a small example of a self help card created by Trupoint Marketing."
